@@ -35,7 +35,7 @@ body {
     display: block;
     font-size: 2rem;
     font-weight: 700;
-    letter-spacing: 1.75rem;
+    letter-spacing: 1rem;
     animation: moveInRight 1s ease-out;
     @include responsive(phone) {
       letter-spacing: 0.5rem;
